@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderretch",
+        "uuid": 11701480,
+        "checksum": "4btn7o"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
